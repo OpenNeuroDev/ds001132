@@ -1,0 +1,1 @@
+48d0580e-7a6c-40f8-983b-5dd85bbb6537 bucket=openneuro-datalad-public-nell-test datacenter=US encryption=none exporttree=yes fileprefix=ds001132/ host=s3.amazonaws.com name=s3-PUBLIC partsize=1GiB port=80 public=None storageclass=STANDARD type=S3 versioning=yes timestamp=1580765715.969918054s
